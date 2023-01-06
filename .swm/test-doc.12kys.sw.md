@@ -5,7 +5,7 @@ file_version: 1.1.0
 app_version: 1.0.3
 file_blobs:
   mypy/api.py: 589bfbbfa1a7c5517931cf04c8a89af72fa25146
-  CONTRIBUTING.md: 193c9f27c85b2a79d920d0c52cb08af42d34a3f8
+  CONTRIBUTING.md: 703e7df148f01ea994e21cdf85e2d57c07a0ee38
 ---
 
 ```
@@ -67,8 +67,6 @@ Don't do what I did
 <br/>
 
 D othis
-
-<br/>
 
 <br/>
 
@@ -140,16 +138,8 @@ DSfadsjlkfsjakflsdjafkladsjfkl `📄 CONTRIBUTING.md`
 🟩 101    To get help fixing a specific issue, it's often best to comment on the issue
 🟩 102    itself. You're much more likely to get help if you provide details about what
 🟩 103    you've tried and where you've looked (maintainers tend to help those who help
-🟩 104    themselves). [gitter](https://gitter.im/python/typing) can also be a good place
-🟩 105    to ask for help.
-🟩 106    
-🟩 107    Interactive debuggers like `pdb` and `ipdb` are really useful for getting
-🟩 108    started with the mypy codebase. This is a
-🟩 109    [useful tutorial](https://realpython.com/python-debugging-pdb/).
-🟩 110    
-🟩 111    It's also extremely easy to get started contributing to our sister project
-🟩 112    [typeshed](https://github.com/python/typeshed/issues) that provides type stubs
-🟩 113    for libraries. This is a great way to become familiar with type syntax.
+🟩 104    
+🟩 105    
 ```
 
 <br/>
