@@ -101,16 +101,7 @@ Just fix the issue yourself, [try to add a unit test](#running-tests) and
 To get help fixing a specific issue, it's often best to comment on the issue
 itself. You're much more likely to get help if you provide details about what
 you've tried and where you've looked (maintainers tend to help those who help
-themselves). [gitter](https://gitter.im/python/typing) can also be a good place
-to ask for help.
 
-Interactive debuggers like `pdb` and `ipdb` are really useful for getting
-started with the mypy codebase. This is a
-[useful tutorial](https://realpython.com/python-debugging-pdb/).
-
-It's also extremely easy to get started contributing to our sister project
-[typeshed](https://github.com/python/typeshed/issues) that provides type stubs
-for libraries. This is a great way to become familiar with type syntax.
 
 ## Submitting changes
 
@@ -151,6 +142,9 @@ You may also find other pages in the
 [Mypy developer guide](https://github.com/python/mypy/wiki/Developer-Guides)
 helpful in developing your change.
 
+
+
+HAHAH I'm the best
 
 ## Core developer guidelines
 
